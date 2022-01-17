@@ -16,8 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my world :rocket:
-[![Kaio Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaio1394&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=Kaio1394&show_icons=true&theme=react'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&layout=compact&theme=react'>
+    </td>
+  </row>
+  
+</table> 
 
 ### About me :video_game:
 
