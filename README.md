@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Welcome to my world :rocket:
+[![Kaio Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaio1394&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### About me :video_game:
+
+I'm a passionate **developer/QA/Data Science** based in Paraná, Brazil. I've graduated in **Mechanical Engineering** in **2017** and on-going Technologist in System Analysis course on Pontífica Universidade Católica do Paraná, and I'm pursuing the path of software engineering(Developer and QA) since **2021**. My ultimate goal is to become a full time **Vericode**.
+
+### Reach me at :earth_americas:https://www.linkedin.com/in/kaio-c%C3%A2ndido-santiago-3ab473b0/
