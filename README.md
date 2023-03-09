@@ -31,10 +31,10 @@ Here are some ideas to get you started:
     <!--img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio1394"-->
 </div>
 <!--div align="center"-->
-    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
+    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&langs_count=1&layout=compact&hide=c%2B%2B,CMake,C"-->
 <!--/div-->
 <div align="center">
-    <!--img width="500em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
+    <!--img width="500em" src="https://streak-stats.demolab.com/?user=Kaio1394&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
 </div>
 
 
