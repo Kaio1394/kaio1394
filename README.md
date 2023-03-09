@@ -18,18 +18,25 @@ Here are some ideas to get you started:
 ## Welcome to my world :rocket:
 
 
-<table align="center">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=Kaio1394&show_icons=true&theme=react'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&layout=compact&theme=react'>
-    </td>
-  </row>
 
-</table> 
+
+
+<div align="center">
+    <!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
+    <!--img height="200em" src="profile-3d-contrib/radar_contrib_only.svg"-->
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaio1394&theme=github"/>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio1394"/>
+</div>
+<div align="center">
+    <!--img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio1394"-->
+</div>
+<!--div align="center"-->
+    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
+<!--/div-->
+<div align="center">
+    <!--img width="500em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
+</div>
+
 
 <div style="display: inline_block">
    <img src ="https://user-images.githubusercontent.com/62676087/224092914-92b4f468-7ec6-40f9-a7c9-f8c9873a486a.png" alt="rails" width="40" height="30" style="max-width:100%;" />
