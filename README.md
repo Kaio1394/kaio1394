@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
    <img src ="https://user-images.githubusercontent.com/62676087/224092914-92b4f468-7ec6-40f9-a7c9-f8c9873a486a.png" alt="rails" width="40" height="30" style="max-width:100%;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
 
