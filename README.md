@@ -28,8 +28,20 @@ Here are some ideas to get you started:
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio1394&layout=compact&theme=react'>
     </td>
   </row>
-  
+
 </table> 
+
+<div style="display: inline_block">
+   <img src ="https://user-images.githubusercontent.com/62676087/224092914-92b4f468-7ec6-40f9-a7c9-f8c9873a486a.png" alt="rails" width="40" height="30" style="max-width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+
+  <img src="https://user-images.githubusercontent.com/62676087/224094568-f144eb91-2633-4fbf-b561-047301bf2cfd.jpg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+ 
+</div>
 
 ### About me :video_game:
 
