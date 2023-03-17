@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div align="center">
     <!--img width="500em" src="https://streak-stats.demolab.com/?user=Kaio1394&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
 </div>
-
+ 
 
 <div style="display: inline_block" align="center">
    <img src ="https://user-images.githubusercontent.com/62676087/224092914-92b4f468-7ec6-40f9-a7c9-f8c9873a486a.png" alt="rails" width="40" height="30" style="max-width:100%;" />
