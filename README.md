@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://www.oscaret.com/images/thumbs/0007690_sql-server-2008-r2-express_625.png" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
  
