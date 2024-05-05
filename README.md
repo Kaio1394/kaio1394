@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 
 <div style="display: inline_block" align="center">
-  <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/678aa3b9-a1cb-43d7-9646-b8abc99ddfcb" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/47fce975-f365-4f7c-889b-750a09261ff3" alt="rails" width="40" height="30" style="max-width:100%;" />
 
   <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/f2f9ab33-304f-41f3-9df5-14d82e1939b8" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
