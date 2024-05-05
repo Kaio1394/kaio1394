@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <div align="center">
     <!--img width="500em" src="https://streak-stats.demolab.com/?user=Kaio1394&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
 </div>
- 
+
 
 <div style="display: inline_block" align="center">
-  <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/8c1b4a8b-56a4-40c8-8f7b-3f9b922e08cc" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/af758064-8690-49ca-ae49-a8a07e8746c8" alt="rails" width="40" height="30" style="max-width:100%;" />
 
   <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/f2f9ab33-304f-41f3-9df5-14d82e1939b8" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
