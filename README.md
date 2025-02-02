@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block" align="center">
+  <img src="https://github.com/user-attachments/assets/c7552eec-4b1d-4768-9938-0220352e0e34" alt="rails" width="40" height="30" style="max-width:100%;" />
 
   <img src="https://github.com/Kaio1394/kaio1394/assets/62676087/f2f9ab33-304f-41f3-9df5-14d82e1939b8" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
