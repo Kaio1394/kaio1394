@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 ### About me :video_game:
 
-I'm a passionate **developer/QA/Data Science** based in Paraná, Brazil. I've graduated in **Mechanical Engineering** in **2017** and on-going Technologist in System Analysis course on Pontífica Universidade Católica do Paraná, and I'm pursuing the path of software engineering(Developer and QA) since **2021**. My ultimate goal is to become a full time **Vericode**.
+I'm a passionate Developer/QA/Data Science enthusiast based in Paraná, Brazil. I graduated in Mechanical Engineering in 2017 and I'm currently pursuing a specialization in Software Development at the Federal University of Paraná (UFPR). Since 2021, I’ve been focused on software engineering, working as a Developer and QA. Currently, I'm concentrating on creating APIs and desktop applications with WPF (especially tools to support testing processes), as well as working with RPA using Automation Anywhere.
 
 ### Reach me at :earth_americas:https://www.linkedin.com/in/kaio-c%C3%A2ndido-santiago-3ab473b0/
